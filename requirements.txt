@@ -1,2 +1,5 @@
 streamlit==1.19.0
 snscrape==0.6.1.20230314
+pymongo==4.3.3
+datetime==5.4.0
+Pillow==9.0.1
