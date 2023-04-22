@@ -17,7 +17,7 @@ Disclaimer: This project is built for research purposes only. I, ***Gladin K. Va
 
 ## Article on Medium
 
-## [![Demo Video](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+## ![Demo Video](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## Workflow
 
