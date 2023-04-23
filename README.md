@@ -13,9 +13,7 @@ Disclaimer: This project is built for research purposes only. I, ***Gladin K. Va
  * Datetime - The datetime module supplies classes for manipulating dates and times.
 
 ## Hosted on Streamlit Cloud [(read more about Streamlit Cloud)](https://streamlit.io/cloud):
-[Twitter Scraping](https://)
-
-## Article on Medium
+[Twitter Scraping](https://gladinv-twitter-scraping-twitterscraper-me04q6.streamlit.app/)
 
 ## ![Demo Video](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
