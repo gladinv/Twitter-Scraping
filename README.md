@@ -1,7 +1,7 @@
 # Twitter-Scraping
 ## Python scripting, Data Collection, MongoDB, Streamlit
 
-![MADE WITH PYTHON](http://ForTheBadge.com/images/badges/made-with-python.svg)  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://)
+![MADE WITH PYTHON](http://ForTheBadge.com/images/badges/made-with-python.svg)  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gladinv-twitter-scraping-twitterscraper-me04q6.streamlit.app/)
 
 Disclaimer: This project is built for research purposes only. I, ***Gladin K. Varghese*** , as the developer am not responsible for any misuse of this project. I believe that this kind of technology should be accessible if needed for the correct reasons.
   
@@ -14,8 +14,6 @@ Disclaimer: This project is built for research purposes only. I, ***Gladin K. Va
 
 ## Hosted on Streamlit Cloud [(read more about Streamlit Cloud)](https://streamlit.io/cloud):
 [Twitter Scraping](https://gladinv-twitter-scraping-twitterscraper-me04q6.streamlit.app/)
-
-## ![Demo Video](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## Workflow
 step-by-step explanation of the workflow of the Twitter Scraping App:
